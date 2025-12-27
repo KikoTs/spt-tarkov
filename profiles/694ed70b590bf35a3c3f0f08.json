@@ -1,0 +1,30 @@
+{
+  "info": {
+    "id": "694ed70b590bf35a3c3f0f08",
+    "scavId": "694ed70b590bf35a3c3f0f09",
+    "aid": 1874583,
+    "username": "Vanio2",
+    "wipe": true,
+    "edition": "Unheard"
+  },
+  "characters": {
+    "pmc": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    },
+    "scav": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    }
+  },
+  "dialogues": {},
+  "inraid": {
+    "location": "none",
+    "character": "none"
+  },
+  "insurance": []
+}
