@@ -12918,7 +12918,7 @@
         "HideoutCounters": null,
         "Seed": "b6894da3d08e2c50481c71bf73c62946",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1766801313,
+        "sptUpdateLastRunTimestamp": 1766801373,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -15550,16 +15550,7 @@
     "54cb50c76803fa8b248b4571": {},
     "58330581ace78e27b8b10cee": {},
     "5a7c2eca46aef81a7ca2145d": {},
-    "5935c25fb3acc3127c3d8cd9": {
-      "686e34526c2a18ed6b0ea5e4": {
-        "count": 190,
-        "purchaseTimestamp": 1766800059
-      },
-      "686e344c6c2a18ed6b0ea350": {
-        "count": 1,
-        "purchaseTimestamp": 1766800000
-      }
-    },
+    "5935c25fb3acc3127c3d8cd9": {},
     "5ac3b934156ae10c4430e83c": {},
     "6617beeaa9cfa777ca915b7c": {},
     "54cb57776803fa99248b456e": {}
